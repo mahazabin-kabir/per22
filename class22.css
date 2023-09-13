@@ -1,0 +1,46 @@
+.inline
+{
+display: inline-block padding: 19px;
+
+height: 1px;
+
+width: 50%;
+
+height: 150px;
+
+position: relative border;
+
+height: 10px;
+
+position: absolute; 
+margin: auto;"
+}
+.div1{
+background-color: blue; color: #fff;
+ }
+
+.div1 a{
+
+
+
+                    margin-top: 20px;
+                    display: inline-block;
+                    border-radius: 10px; text-decoration: none;
+                    color: #fff;
+                    background-color:green;
+                    padding: 20px;
+ }
+                    a:link {
+                    color: blue;
+                    opacity: 0.3;
+                    }
+                    a:visited {
+                   background-color:red;
+                    
+                    }
+                    a:hover{
+                    opacity: 1;
+                    }
+                    .div2{
+                                        background-color: rgb(138, 138, 181); color: #fff;
+                                         }
